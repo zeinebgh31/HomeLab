@@ -1,0 +1,8 @@
+[Machine] Kali Linux (Attaquant)
+[RAM] 2048 MB
+[CPU] 4 vCPU
+[Disk] 80 GB
+[Network]
+- 1er adaptateur : NAT (pour accéder à Internet si nécessaire pour mise à jour ou outils)
+- 2e adaptateur : Host-Only Adapter (pour attaquer les autres machines sur le réseau local)
+[Notes]
